@@ -1,0 +1,47 @@
+body{
+    background-image: url(./stadium.jpg);
+    background-position-x: center;
+    background-position-y: center;
+    
+
+
+}
+td{
+    border: 5px,solid,black;
+    padding: 10px;
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+th{
+    border: 5px,solid,black;
+    padding: 10px;
+}
+div{
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+#ind{
+    margin: auto;
+    margin-top: 35px;
+    margin-left: 75px;
+}
+#aus{
+    margin: auto;
+    margin-top:35px;
+    margin-right: 75px;
+}
+h2{
+    margin-top: 5px;
+    margin-left: 300px;
+    height: 25px;
+    width: 75px;
+    border: 5px,solid,black;
+    color: blue;
+}
+#a{
+    margin-left: 1400px;
+    margin-top: 5px;
+    height: 25px;
+    width: 150px;
+    color: yellow;
+}
